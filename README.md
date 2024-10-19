@@ -1,4 +1,4 @@
 # bogdan
 Github repository for bogdan course
 
-README.md file edited manually. This file was modified locally
+This line was modified manually during conflicts resolution
